@@ -74,8 +74,7 @@ Retail-Sales-Dashboard
 
     📁 sql/ # SQL queries used in analysis
       Top_products_by_profit.sql 
-      Shipping_late_ratio.sql
-      Monthly_profit_trend.sql
+      Profit_trend by cities.sql
 
     📁 images/ # Screenshots used in README or portfolio
       Dashboard-overview.png ![image](https://github.com/user-attachments/assets/e3ed5c3b-70a5-4428-a752-701a80b82452)
